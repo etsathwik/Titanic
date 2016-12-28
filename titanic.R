@@ -1,4 +1,5 @@
-#This is my first machine learning project. I have started this after going through the other solutions to get an inspiration. I am a beginner and feedback is much appreciated. 
+#This is my first machine learning project. I have started this after going through the other solutions to get an inspiration 
+#and understand the approach to solve the problem.I am a beginner and feedback is much appreciated. 
 library(ggplot2)
 library(dplyr)
 library(Amelia)
